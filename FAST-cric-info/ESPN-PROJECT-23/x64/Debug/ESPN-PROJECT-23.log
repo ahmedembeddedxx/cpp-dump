@@ -1,0 +1,27 @@
+﻿  ESPN-PROJECT-23.cpp
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(241,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(243,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(447,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(448,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(449,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(467,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(468,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(469,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(563,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(631,14): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(703,14): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(779,14): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(855,14): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(937,14): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(1014,14): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(260,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\classes.h(1443,9): message : see reference to function template instantiation 'int retname<InternationalTeams>(std::vector<InternationalTeams,std::allocator<InternationalTeams>> &)' being compiled
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(274,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(498): warning C4715: 'gettypeball': not all control paths return a value
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(298): warning C4715: 'retname<Matches>': not all control paths return a value
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(298): warning C4715: 'retname<Batters>': not all control paths return a value
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(298): warning C4715: 'retname<Bowlers>': not all control paths return a value
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(298): warning C4715: 'retname<AllRounders>': not all control paths return a value
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(298): warning C4715: 'retname<LocalTeams>': not all control paths return a value
+C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\ESPN-PROJECT-23\functions.h(298): warning C4715: 'retname<InternationalTeams>': not all control paths return a value
+  ESPN-PROJECT-23.vcxproj -> C:\Users\Ahmed Abdullah\source\repos\ESPN-PROJECT-23\x64\Debug\ESPN-PROJECT-23.exe

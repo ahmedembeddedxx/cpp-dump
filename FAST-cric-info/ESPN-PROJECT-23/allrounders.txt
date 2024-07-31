@@ -1,0 +1,9 @@
+50*42*Shadab Khan*Pakistan*Nil*04-10-1998*07-04-2017*2300*1100*70*60*2*0*4/25*Leg-spin*10*850*79*650*8*8*70*45*25*Right-handed*3*1*
+45*38*Ben Stokes*England*Nil*04-06-1991*19-08-2011*2800*1500*80*70*4*0*5/40*Right-arm Fast*12*1100*95*900*10*10*80*50*30*Left-handed*4*2*
+52*40*Shakib Al Hasan*Bangladesh*Nil*24-03-1987*06-08-2006*2500*1200*60*50*3*0*4/30*Slow left-arm orthodox*8*800*70*1000*12*12*90*40*20*Left-handed*2*3*
+48*39*Hardik Pandya*India*Nil*11-10-1993*23-06-2016*2200*1000*65*55*1*0*3/25*Right-arm Fast*10*950*85*800*9*9*75*55*25*Right-handed*3*4*
+42*35*Chris Woakes*England*Nil*02-03-1989*22-01-2011*1800*800*55*45*2*0*4/35*Right-arm Fast*7*600*55*750*8*8*60*35*15*Right-handed*2*5*
+55*43*Mohammad Nabi*Afghanistan*Nil*01-01-1985*19-08-2009*2100*950*50*40*2*0*3/30*Right-arm Off Spin*10*700*65*950*10*10*85*60*30*Right-handed*2*6*
+50*42*Mitchell Marsh*Australia*Nil*20-10-1991*04-09-2011*1900*900*55*50*1*0*4/28*Right-arm Fast*9*850*80*800*10*10*70*50*20*Right-handed*3*7*
+46*37*Andile Phehlukwayo*South Africa*Nil*03-03-1996*24-09-2016*1600*800*45*40*1*0*3/20*Right-arm Fast*8*550*45*650*7*7*55*40*15*Right-handed*2*8*
+112*110*Shahid Afridi*Pakistan*Middle Order Batter*09/03/1989*09/03/2004*1200*700*250*5*0*52*7/12*Right Arm Leg Spinner*40*8000*156*12000*12*24*4*6*25*RHB*0*11*

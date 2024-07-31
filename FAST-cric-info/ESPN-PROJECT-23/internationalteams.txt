@@ -1,0 +1,5 @@
+Pakistan*Misbah-ul-Haq*Babar Azam*120*95*15*Babar Azam*Imam-ul-Haq*Fakhar Zaman*Mohammad Rizwan*Shoaib Malik*Asif Ali*Shadab Khan*Hasan Ali*Shaheen Afridi*Mohammad Hasnain*Haris Rauf*Gaddafi Stadium*1*5*PCB*
+India*Ravi Shastri*Virat Kohli*145*80*10*Rohit Sharma*Shikhar Dhawan*Virat Kohli*KL Rahul*Rishabh Pant*Hardik Pandya*Ravindra Jadeja*Jasprit Bumrah*Mohammed Shami*Yuzvendra Chahal*Bhuvneshwar Kumar*Wankhede Stadium*2*2*BCCI*
+Australia*Justin Langer*Aaron Finch*140*70*10*Aaron Finch*David Warner*Steven Smith*Marnus Labuschagne*Glenn Maxwell*Marcus Stoinis*Alex Carey*Pat Cummins*Mitchell Starc*Josh Hazlewood*Adam Zampa*Melbourne Cricket Ground*5*3*Cricket Australia*
+England*Chris Silverwood*Eoin Morgan*130*60*15*Jason Roy*Jonny Bairstow*Joe Root*Eoin Morgan*Jos Buttler*Ben Stokes*Moeen Ali*Chris Woakes*Jofra Archer*Mark Wood*Adil Rashid*Lord's Cricket Ground*1*1*ECB*
+New Zealand*Gary Stead*Kane Williamson*110*80*20*Martin Guptill*Henry Nicholls*Kane Williamson*Ross Taylor*Tom Latham*Jimmy Neesham*Mitchell Santner*Tim Southee*Trent Boult*Lockie Ferguson*Ish Sodhi*Eden Park*0*4*NZC*
